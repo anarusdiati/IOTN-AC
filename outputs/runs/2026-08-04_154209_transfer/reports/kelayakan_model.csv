@@ -1,0 +1,4 @@
+model,parameter,fp32_MB,int8_MB,cpu_ms,kelayakan
+mobilenet_v3_small,1075489,4.44,1.11,33.2,sangat sesuai
+mobilenet_v3_large,3218737,13.08,3.27,43.4,sangat sesuai
+efficientnet_b0,4336253,17.64,4.41,95.0,sangat sesuai

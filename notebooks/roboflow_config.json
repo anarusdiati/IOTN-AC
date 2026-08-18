@@ -1,0 +1,10 @@
+{
+  "_petunjuk": "Isi api_key dengan kunci dari https://app.roboflow.com/settings/api. Sesuaikan project/version/format bila perlu. Format 'coco-segmentation' memuat polygon mask (yang kita butuhkan).",
+  "api_key": "8AQChW3h1I5znhG0uHsH",
+  "workspace": "ana-rusdiati",
+  "projects": {
+    "train": { "project": "omni-front-teeth-train", "version": 1, "format": "coco" },
+    "val":   { "project": "omni-front-teeth-val",   "version": 2, "format": "coco" },
+    "test":  { "project": "omni-front-teeth-test",  "version": 1, "format": "coco" }
+  }
+}

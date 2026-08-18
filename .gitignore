@@ -1,0 +1,14 @@
+# Data & model weights (too large / not suited for git, keep local)
+data/
+models/
+
+# Large notebook subfolders
+notebooks/data/
+notebooks/runs/
+
+# OS / editor / python junk
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
